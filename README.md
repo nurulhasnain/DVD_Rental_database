@@ -1,1 +1,1 @@
-# DVD_Rental_database
+work on the DVD Rental database, which is provided in the form of a .tar file. My tasks involve updating this database into PostgreSQL and executing various data queries and syntax operations to extract meaningful information and insights.
